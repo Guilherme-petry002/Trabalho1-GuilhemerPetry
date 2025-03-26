@@ -1,4 +1,5 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 Este é um trabalho da faculdade, no qual tive que solucionar os seguintes problemas:
 Um programa em C que calcula o salário final de um funcionário, no qual a empresa se chama "Abangu Corporation".
 O calculo de salário final é:
